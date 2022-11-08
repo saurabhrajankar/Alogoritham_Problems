@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\AlgorithmPrograms\Binary_Search\bin\Debug\Binary_Search.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\AlgorithmPrograms\Binary_Search\bin\Debug\Binary_Search.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\AlgorithmPrograms\Binary_Search\bin\Debug\Binary_Search.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\AlgorithmPrograms\Binary_Search\obj\Debug\Binary_Search.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\AlgorithmPrograms\Binary_Search\obj\Debug\Binary_Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\AlgorithmPrograms\Binary_Search\obj\Debug\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\AlgorithmPrograms\Binary_Search\obj\Debug\Binary_Search.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\AlgorithmPrograms\Binary_Search\obj\Debug\Binary_Search.pdb
